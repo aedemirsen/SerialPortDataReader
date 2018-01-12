@@ -1,0 +1,9 @@
+C:\Users\aedemirsen\Documents\Visual Studio 2015\Projects\SerialPortDataReader\SerialPortDataReader\bin\Debug\SerialPortDataReader.exe.config
+C:\Users\aedemirsen\Documents\Visual Studio 2015\Projects\SerialPortDataReader\SerialPortDataReader\bin\Debug\SerialPortDataReader.exe
+C:\Users\aedemirsen\Documents\Visual Studio 2015\Projects\SerialPortDataReader\SerialPortDataReader\bin\Debug\SerialPortDataReader.pdb
+C:\Users\aedemirsen\Documents\Visual Studio 2015\Projects\SerialPortDataReader\SerialPortDataReader\obj\Debug\SerialPortDataReader.Form1.resources
+C:\Users\aedemirsen\Documents\Visual Studio 2015\Projects\SerialPortDataReader\SerialPortDataReader\obj\Debug\SerialPortDataReader.Properties.Resources.resources
+C:\Users\aedemirsen\Documents\Visual Studio 2015\Projects\SerialPortDataReader\SerialPortDataReader\obj\Debug\SerialPortDataReader.csproj.GenerateResource.Cache
+C:\Users\aedemirsen\Documents\Visual Studio 2015\Projects\SerialPortDataReader\SerialPortDataReader\obj\Debug\SerialPortDataReader.exe
+C:\Users\aedemirsen\Documents\Visual Studio 2015\Projects\SerialPortDataReader\SerialPortDataReader\obj\Debug\SerialPortDataReader.pdb
+C:\Users\aedemirsen\Documents\Visual Studio 2015\Projects\SerialPortDataReader\SerialPortDataReader\obj\Debug\SerialPortDataReader.csprojResolveAssemblyReference.cache

@@ -1,0 +1,9 @@
+C:\Users\aedemirsen\Documents\Visual Studio 2015\Projects\SerialPortDataReader\SerialPortDataReader\bin\Release\SerialPortDataReader.exe.config
+C:\Users\aedemirsen\Documents\Visual Studio 2015\Projects\SerialPortDataReader\SerialPortDataReader\bin\Release\SerialPortDataReader.exe
+C:\Users\aedemirsen\Documents\Visual Studio 2015\Projects\SerialPortDataReader\SerialPortDataReader\bin\Release\SerialPortDataReader.pdb
+C:\Users\aedemirsen\Documents\Visual Studio 2015\Projects\SerialPortDataReader\SerialPortDataReader\obj\Release\SerialPortDataReader.csprojResolveAssemblyReference.cache
+C:\Users\aedemirsen\Documents\Visual Studio 2015\Projects\SerialPortDataReader\SerialPortDataReader\obj\Release\SerialPortDataReader.Form1.resources
+C:\Users\aedemirsen\Documents\Visual Studio 2015\Projects\SerialPortDataReader\SerialPortDataReader\obj\Release\SerialPortDataReader.Properties.Resources.resources
+C:\Users\aedemirsen\Documents\Visual Studio 2015\Projects\SerialPortDataReader\SerialPortDataReader\obj\Release\SerialPortDataReader.csproj.GenerateResource.Cache
+C:\Users\aedemirsen\Documents\Visual Studio 2015\Projects\SerialPortDataReader\SerialPortDataReader\obj\Release\SerialPortDataReader.exe
+C:\Users\aedemirsen\Documents\Visual Studio 2015\Projects\SerialPortDataReader\SerialPortDataReader\obj\Release\SerialPortDataReader.pdb
